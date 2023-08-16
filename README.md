@@ -33,5 +33,5 @@ The Gradient Boosting model achieved impressive predictive accuracy, with an ove
 *Conclusion:*
 This project showcases my proficiency in applying advanced machine learning techniques, particularly Gradient Boosting, to solve real-world healthcare challenges. By predicting cardiovascular disease risk with accuracy and interpretability, I've demonstrated my ability to translate technical skills into actionable insights that can positively impact patient care. This project underscores my commitment to using data-driven approaches for improving healthcare outcomes.
 
-Project created by @SampadaTikale @meteyash
+Project created by @meteyash
 Contact us, if any problem persists.
