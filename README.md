@@ -6,6 +6,7 @@ In this project, I applied Gradient Boosting, a powerful machine learning techni
 
 Key Contributions:
 Dataset Selection and Preprocessing: Curated a comprehensive dataset containing demographic information, medical history, lifestyle factors, and clinical measurements of individuals. Preprocessed the data by handling missing values, standardizing features, and detecting outliers.
+
 Dataset Link - https://www.kaggle.com/datasets/sulianova/cardiovascular-disease-dataset
 
 Feature Engineering and Selection: Conducted an in-depth analysis of the dataset to identify relevant features for cardiovascular disease prediction. Engineered new features, such as risk score aggregates, to capture complex relationships within the data.
@@ -33,10 +34,10 @@ Skills Demonstrated:
 Conclusion:
 This project showcases my proficiency in applying advanced machine learning techniques, particularly Gradient Boosting, to solve real-world healthcare challenges. By predicting cardiovascular disease risk with accuracy and interpretability, I've demonstrated my ability to translate technical skills into actionable insights that can positively impact patient care. This project underscores my commitment to using data-driven approaches for improving healthcare outcomes.
 
-UserInterFace -
+User Interface -
+
 ![app · Streamlit - Personal - Microsoft​ Edge 8_16_2023 8_51_25 PM](https://github.com/meteyash/GradientBoosting_CardioPredict/assets/99327857/b8acab4c-b477-4ede-9204-1a333b6ea9e7)
 
 
 Project created by @SampadaTikale @PrachiShinde @meteyash
-
 Contact us, if any problem persists.
