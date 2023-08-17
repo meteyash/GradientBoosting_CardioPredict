@@ -1,4 +1,4 @@
-# GradientBoosting_CardioPredict
+# Predicting CVD Disease Using Gradient Boosting
 #Project Title: Predicting Cardiovascular Disease Using Gradient Boosting Machine Learning
 
 Description:
@@ -20,7 +20,7 @@ Visualization of Results: Created visualizations to illustrate the model's predi
 
 Deployment and Interpretability: Developed an interactive web-based interface to allow healthcare professionals to input patient data and receive risk predictions. Ensured the model's outputs were presented in an understandable and actionable format.
 
-*Results:*
+Results:
 The Gradient Boosting model achieved impressive predictive accuracy, with an overall accuracy 73.90 % on the validation dataset. It demonstrated strong precision and recall values of precision - 76.29 % and recall values - 91.81 %, indicating its ability to accurately identify both positive and negative cases of cardiovascular disease. Feature importance analysis revealed that factors like  played a critical role in prediction.
 
 Skills Demonstrated:
@@ -33,10 +33,10 @@ Skills Demonstrated:
 Conclusion:
 This project showcases my proficiency in applying advanced machine learning techniques, particularly Gradient Boosting, to solve real-world healthcare challenges. By predicting cardiovascular disease risk with accuracy and interpretability, I've demonstrated my ability to translate technical skills into actionable insights that can positively impact patient care. This project underscores my commitment to using data-driven approaches for improving healthcare outcomes.
 
-Google Collab Link - https://colab.research.google.com/drive/1oHmR1Dq6R_7I085u6S1GbnAyHbXuI0qq?usp=sharing
-
+UserInterFace -
 ![app · Streamlit - Personal - Microsoft​ Edge 8_16_2023 8_51_25 PM](https://github.com/meteyash/GradientBoosting_CardioPredict/assets/99327857/b8acab4c-b477-4ede-9204-1a333b6ea9e7)
 
 
-Project created by @meteyash @SampadaTikale @PrachiShinde
+Project created by @SampadaTikale @PrachiShinde @meteyash
+
 Contact us, if any problem persists.
